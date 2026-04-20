@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Kayque Magno 👋</h1>
 
 <p align="center">
-Estudante de Tecnologia da Informação | Desenvolvimento Back-end | Cloud
+Estudante de Tecnologia da Informação | Desenvolvimento Back-end
 </p>
 
 ---
@@ -10,7 +10,7 @@ Estudante de Tecnologia da Informação | Desenvolvimento Back-end | Cloud
 
 Sou estudante de Tecnologia da Informação com foco em desenvolvimento Back-end e aplicações Web. Possuo experiência prática na criação de projetos utilizando HTML, CSS, JavaScript, PHP, MySQL e C#, incluindo sistemas CRUD integrados a banco de dados.
 
-Tenho conhecimento em versionamento de código com Git e GitHub e fundamentos de computação em nuvem com AWS, incluindo conceitos de infraestrutura, serviços em nuvem e boas práticas.
+Tenho experiência com versionamento de código utilizando Git e GitHub, aplicando boas práticas de organização e controle de versões em projetos.
 
 Busco evoluir continuamente minhas habilidades técnicas, desenvolver projetos práticos e contribuir com soluções eficientes em ambientes profissionais.
 
@@ -34,23 +34,6 @@ Busco evoluir continuamente minhas habilidades técnicas, desenvolver projetos p
 
 ---
 
-## ☁️ Cloud
-
-<p>
-
-<img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazonaws"/>
-
-</p>
-
-Certificação AWS com conhecimentos em:
-
-- Conceitos de Cloud Computing
-- Infraestrutura em nuvem
-- Serviços principais da AWS
-- Segurança e boas práticas
-
----
-
 ## 📂 Projetos
 
 🔹 Sistemas CRUD com PHP e MySQL  
@@ -61,8 +44,8 @@ Certificação AWS com conhecimentos em:
 
 Em breve:
 - Integração com APIs
-- Projetos completos em Cloud
-- Aplicações mais robustas
+- Aplicações mais completas
+- Projetos mais robustos
 
 ---
 
@@ -96,4 +79,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayqueti&lay
 
 ---
 
-⭐ Desenvolvedor em evolução constante, com foco em Back-end, Cloud e boas práticas de programação.
+⭐ Desenvolvedor focado em Back-end, sempre buscando evoluir e construir projetos cada vez melhores.
