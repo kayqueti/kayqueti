@@ -1,22 +1,22 @@
 <h1 align="center">Olá, eu sou o Kayque Magno 👋</h1>
 
 <p align="center">
-Estudante de Tecnologia da Informação focado em Desenvolvimento Back-end e Web.
+Estudante de Tecnologia da Informação | Desenvolvimento Back-end | Cloud
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Tecnologia da Informação com foco em desenvolvimento Back-end e aplicações Web. Tenho experiência prática na criação de projetos utilizando HTML, CSS, JavaScript, PHP e MySQL, incluindo sistemas CRUD integrados a banco de dados.
+Sou estudante de Tecnologia da Informação com foco em desenvolvimento Back-end e aplicações Web. Possuo experiência prática na criação de projetos utilizando HTML, CSS, JavaScript, PHP, MySQL e C#, incluindo sistemas CRUD integrados a banco de dados.
 
-Atualmente estou aprofundando meus conhecimentos em Git, GitHub e Computação em Nuvem com AWS, buscando evoluir continuamente minhas habilidades e contribuir com soluções eficientes em ambientes profissionais.
+Tenho conhecimento em versionamento de código com Git e GitHub e fundamentos de computação em nuvem com AWS, incluindo conceitos de infraestrutura, serviços em nuvem e boas práticas.
 
-Tenho facilidade em aprender novas tecnologias, gosto de resolver problemas e estou sempre construindo projetos para fortalecer meu portfólio.
+Busco evoluir continuamente minhas habilidades técnicas, desenvolver projetos práticos e contribuir com soluções eficientes em ambientes profissionais.
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🚀 Tecnologias
 
 <p>
 
@@ -25,6 +25,8 @@ Tenho facilidade em aprender novas tecnologias, gosto de resolver problemas e es
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 
@@ -32,26 +34,35 @@ Tenho facilidade em aprender novas tecnologias, gosto de resolver problemas e es
 
 ---
 
-## 📂 Projetos
+## ☁️ Cloud
 
-🔹 Sistemas CRUD com PHP e MySQL  
-🔹 Aplicações Web utilizando HTML, CSS e JavaScript  
-🔹 Projetos acadêmicos com banco de dados  
-🔹 Versionamento de código utilizando Git e GitHub  
+<p>
 
-Em breve:
-- Integração com APIs
-- Projetos com Cloud (AWS)
-- Aplicações mais completas
+<img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazonaws"/>
+
+</p>
+
+Certificação AWS com conhecimentos em:
+
+- Conceitos de Cloud Computing
+- Infraestrutura em nuvem
+- Serviços principais da AWS
+- Segurança e boas práticas
 
 ---
 
-## 📚 Atualmente estudando
+## 📂 Projetos
 
-- Computação em Nuvem (AWS)
-- Versionamento com Git e GitHub
-- Desenvolvimento Back-end
-- Boas práticas de programação
+🔹 Sistemas CRUD com PHP e MySQL  
+🔹 Aplicações Web com HTML, CSS e JavaScript  
+🔹 Projetos acadêmicos utilizando banco de dados  
+🔹 Versionamento de código com Git e GitHub  
+🔹 Projetos em desenvolvimento com C# (.NET)  
+
+Em breve:
+- Integração com APIs
+- Projetos completos em Cloud
+- Aplicações mais robustas
 
 ---
 
@@ -85,4 +96,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayqueti&lay
 
 ---
 
-⭐ Sempre buscando evoluir como desenvolvedor e construir projetos cada vez melhores.
+⭐ Desenvolvedor em evolução constante, com foco em Back-end, Cloud e boas práticas de programação.
