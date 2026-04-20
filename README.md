@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Kayque Magno</h1>
-<h3 align="center">Desenvolvedor Back-end em formação</h3>
+<h3 align="center">Desenvolvedor Back-end </h3>
 
 ---
 
