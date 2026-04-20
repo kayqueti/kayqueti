@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Kayque Magno 👋</h1>
 
 <p align="center">
-Estudante de análise e desenvolvimento de sistemas| Desenvolvimento Back-end
+Estudante de Análise e Desenvolvimento de Sistemas| Desenvolvimento Back-end
 </p>
 
 ---
